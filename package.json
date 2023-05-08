@@ -1,0 +1,26 @@
+{
+  "name": "project-akhir-dicoding",
+  "version": "1.0.0",
+  "description": "Submission akhir BE Dicoding",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Submission",
+    "Dicoding",
+    "BE",
+    "Book"
+  ],
+  "author": "Anathapindika Surja Putra",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2",
+    "nanoid": "^3.3.6"
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0"
+  }
+}
