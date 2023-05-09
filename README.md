@@ -1,4 +1,8 @@
 # **Submission Bookshelf API**
+<p align="center">
+        <a href="https://github.com/nath2006"><img title="Author" src="https://img.shields.io/badge/Author-nath2006-blue.svg?style=for-the-badge&logo=github"></a>
+</p>
+
 ## Kriteria 1 : API dapat menyimpan buku
 1. API harus dapat menyimpan buku melalui route: <br/>
     Method : POST <br/>
