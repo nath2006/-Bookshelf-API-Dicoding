@@ -239,3 +239,4 @@
 
 ## :pencil:Requirements 
 - Hapi Framework
+- Nanoid
